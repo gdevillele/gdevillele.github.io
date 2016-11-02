@@ -4,9 +4,7 @@ aliases:
 aliases:
 - /engine/reference/commandline/node_tasks/
 description: The node ps command description and usage
-keywords:
-- node, tasks
-- ps
+keywords: node, tasks, ps
 menu:
   main:
     parent: smn_cli

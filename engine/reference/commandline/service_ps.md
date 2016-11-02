@@ -4,9 +4,7 @@ aliases:
 aliases:
 - /engine/reference/commandline/service_tasks/
 description: The service ps command description and usage
-keywords:
-- service, tasks
-- ps
+keywords: service, tasks, ps
 menu:
   main:
     parent: smn_cli
